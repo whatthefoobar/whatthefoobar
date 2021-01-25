@@ -1,4 +1,4 @@
-[![Whatthefoof's github stats](https://github-readme-stats.vercel.app/api?username=whatthefoof)](https://github.com/whatthefoof/github-readme-stats)
+[![Whatthefoof's github stats](https://github-readme-stats.vercel.app/api?username=whatthefoof&theme=tokyonight)](https://github.com/whatthefoof/github-readme-stats)
 
 
 
