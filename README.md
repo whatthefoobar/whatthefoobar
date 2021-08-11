@@ -1,5 +1,5 @@
-[![Whatthefoof's github stats](https://github-readme-stats.vercel.app/api?username=whatthefoof&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Whatthefoof's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatthefoof&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Whatthefoobar's github stats](https://github-readme-stats.vercel.app/api?username=whatthefoobar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Whatthefoobar's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatthefoobar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
