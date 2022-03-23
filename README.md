@@ -1,6 +1,6 @@
 [![Whatthefoobar's github stats](https://github-readme-stats.vercel.app/api?username=whatthefoobar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Whatthefoobar's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatthefoobar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-https://www.codewars.com/users/whatthefoof/badges/large
+ [![Codewars Badge](https://www.codewars.com/users/whatthefoof/badges/large)](https://www.codewars.com/users/whatthefoof)
 
 
 
