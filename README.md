@@ -1,13 +1,14 @@
 # Hi there, I'm Irina
 
+🗣 Hi I'm your local chatty, socially awkward nerd. Ask me about anything and watch me talk anyone into a circle, don't take my compulsion to talk as a sign of extraversion though, I love to learn just about anything from any type of people, I just need a little nudge to listen more .
+
 ## I'm a Wife, Mother, Developer student, and forever learner!!
 
 - 🔭 I’m currently working on my React and MERN skills
 - 🌱 I’m currently learning just about everything.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with anything frontend related.
 - 🥅 2022 Goals: learn more about Frontend , Backend and get my first developer job.
-- ⚡ Fun fact: I know a little bit of mandarin and hope to get my HSK4 and HSK5 after the baby grows up a bit.
+- ⚡ Fun fact: I know a little bit of Mandarin and hope to get my HSK4 and HSK5 after the baby grows up a bit.
 
 ### Connect with me: irina.mntn@gmail.com
 
