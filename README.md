@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with anything frontend related.
 - 🥅 2022 Goals: learn more about Frontend , Backend and get my first developer job.
-- ⚡ Fun fact: I know a little bit of mandaring and hope to get my HSK4 and HSK5 after the baby grows up a bit.
+- ⚡ Fun fact: I know a little bit of mandarin and hope to get my HSK4 and HSK5 after the baby grows up a bit.
 
 ### Connect with me: irina.mntn@gmail.com
 
