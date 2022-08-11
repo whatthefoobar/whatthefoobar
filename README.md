@@ -1,4 +1,4 @@
-# Hi there, I'm Irina
+# Hi there, I'm Irina 
 
 🗣 Hi I'm your local chatty, socially awkward nerd. Ask me about anything and watch me talk anyone into a circle, don't take my compulsion to talk as a sign of extraversion though, I love to learn just about anything from any type of people, I just need a little nudge to listen more .
 
