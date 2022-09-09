@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Typescript.
 - 🤔 I’m looking for help with anything frontend related.
 - 🥅 2022 Goals: learn more about Frontend , Backend and get my first developer job.
-- ⚡ Fun fact: I know a little bit of Mandarin and hope to get my HSK4 and HSK5 after the baby grows up a bit.
+- ⚡ Fun fact: I love to cook to destress.
 
 ### Connect with me: irina.mntn@gmail.com
 
