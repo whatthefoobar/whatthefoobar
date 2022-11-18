@@ -4,7 +4,7 @@
 
 ## I'm a Wife, Mother, Developer student, and forever learner!!
 
-- 🔭 I’m currently working on my React and MERN skills
+- 🔭 I’m currently working on everything in my first internship
 - 🌱 I’m currently learning Typescript.
 - 🤔 I’m looking for help with anything frontend related.
 - 🥅 2022 Goals: learn more about Frontend , Backend and get my first developer job.
