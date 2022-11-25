@@ -14,8 +14,8 @@
 
 [![Codewars Badge](https://www.codewars.com/users/whatthefoof/badges/large)](https://www.codewars.com/users/whatthefoof)
 
-[![Whatthefoobar's github stats](https://github-readme-stats.vercel.app/api?username=whatthefoobar&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Whatthefoobar's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatthefoobar&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Whatthefoobar's github stats](https://github-readme-stats.vercel.app/api?username=whatthefoobar&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Whatthefoobar's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatthefoobar&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **whatthefoof/whatthefoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
