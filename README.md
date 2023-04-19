@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on everything in my internship
 - 🌱 I’m currently learning Typescript.
 - 🤔 I’m looking for help with anything frontend related.
-- 🥅 2022 Goals: learn more about Frontend , Backend and get my first developer job.
+- 🥅 2023 Goals: learn more about Frontend , Backend and get better at it every day.
 - ⚡ Fun fact: I love to cook to destress.
 
 ### Connect with me: irina.mntn@gmail.com
