@@ -2,12 +2,12 @@
 
 
 
-## I'm a Wife, Mother, Developer student, and forever learner!!
+## I'm a Developer student, cooking, foreign language enthusiast and forever learner!!
 
 - 🔭 I’m currently working on everything in my internship
 - 🌱 I’m currently learning Typescript.
 - 🤔 I’m looking for help with anything frontend related.
-- 🥅 2023 Goals: learn more about Frontend , Backend and get better at it every day.
+- 🥅 2023 Goals: learn more about Frontend, Backend and get better at it every day.
 - ⚡ Fun fact: I love to cook to destress.
 
 ### Connect with me: irina.mntn@gmail.com
