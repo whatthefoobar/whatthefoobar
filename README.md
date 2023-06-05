@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer student, cooking, foreign language enthusiast and forever learner!!
+## I'm a Frontend Developer, cooking magician, foreign language enthusiast and forever learner!!
 
 - 🔭 I’m currently working on everything in my internship
 - 🌱 I’m currently learning Typescript.
