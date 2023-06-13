@@ -14,7 +14,7 @@
 
 [![Codewars Badge](https://www.codewars.com/users/whatthefoof/badges/large)](https://www.codewars.com/users/whatthefoof)
 
-<!-- [![Whatthefoobar's github stats](https://github-readme-stats.vercel.app/api?username=whatthefoobar&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Whatthefoobar's github stats](https://github-readme-stats.vercel.app/api?username=whatthefoobar&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatthefoobar)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
