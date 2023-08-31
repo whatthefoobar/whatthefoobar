@@ -5,7 +5,7 @@
 ## I'm a Frontend Developer, cooking magician, foreign language enthusiast and forever learner!!
 
 - 🔭 I’m currently working on everything in my internship
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning C#.
 - 🤔 I’m looking for help with anything frontend related.
 - 🥅 2023 Goals: learn more about Frontend, Backend and get better at it every day.
 - ⚡ Fun fact: I love to cook to destress.
