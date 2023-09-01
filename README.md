@@ -2,7 +2,7 @@
 
 
 
-## I'm a Frontend Developer, cooking magician, foreign language enthusiast and forever learner!!
+## I'm a Frontend Developer, food wizard, foreign language enthusiast and forever learner!!
 
 - 🔭 I’m currently working on everything in my internship
 - 🌱 I’m currently learning C#.
