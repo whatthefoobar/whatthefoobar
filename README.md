@@ -5,7 +5,7 @@
 ## I'm a Frontend Developer, food wizard, foreign language enthusiast and forever learner!!
 
 - 🔭 I’m currently working on everything in my internship
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C#, Typescript and using Redux toolkit and React query as part of my tech stack.
 - 🤔 I’m looking for help with anything frontend related.
 - 🥅 2023 Goals: learn more about Frontend, Backend and get better at it every day.
 - ⚡ Fun fact: I love to cook to destress.
