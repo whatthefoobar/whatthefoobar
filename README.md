@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on everything in my internship
 - 🌱 I’m currently learning C#, Typescript and using Redux toolkit and React query as part of my tech stack.
 - 🤔 I’m looking for help with anything frontend related.
-- 🥅 2023 Goals: learn more about Frontend, Backend and get better at it every day.
+- 🥅 2023-2024 Goals: be comfortable using Typescript with all my Javascript projects, learn C#, .NET , Angular and dive into more frontend design.
 - ⚡ Fun fact: I love to cook to destress.
 
 ### Connect with me: irina.mntn@gmail.com
